@@ -300,13 +300,13 @@ const closeCvModal = () => {
           
           <!-- PDF Preview Iframe -->
           <div class="flex-grow bg-white/5 rounded-xl border border-white/10 overflow-hidden mb-6">
-            <iframe src="/resume.pdf" class="w-full h-full" frameborder="0" title="CV Preview"></iframe>
+            <iframe src="/public/Bago, Jhon Mark T._Resume (1).pdf" class="w-full h-full" frameborder="0" title="CV Preview"></iframe>
           </div>
 
           <!-- Download Button -->
           <div class="flex justify-end">
             <!-- Replace href with actual path and name it how you want it to download -->
-            <a href="/resume.pdf" download="Bago, Jhon Mark T._Resume.pdf" class="bg-indigo-600 hover:bg-indigo-500 text-white text-sm font-semibold px-6 py-3 rounded-xl shadow-lg hover:shadow-indigo-500/20 transition-all duration-300 flex items-center gap-2">
+            <a href="/public/Bago, Jhon Mark T._Resume (1).pdf" download="Bago, Jhon Mark T._Resume.pdf" class="bg-indigo-600 hover:bg-indigo-500 text-white text-sm font-semibold px-6 py-3 rounded-xl shadow-lg hover:shadow-indigo-500/20 transition-all duration-300 flex items-center gap-2">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
               </svg>
